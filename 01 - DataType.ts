@@ -8,3 +8,11 @@ console.log("undefined == undefined")
 console.log("null == null")
 console.log("void == void")
 console.log("never == never")
+
+
+// Declare variables
+let varA = 10;
+var varB = 20;
+
+// declare constants
+const server = "http://localhost:3000"
