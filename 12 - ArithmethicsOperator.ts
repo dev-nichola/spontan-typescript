@@ -12,3 +12,5 @@ console.log(x * x + y * y)
 
 console.log(x * x + y * y / y)
 
+console.log(x * x + y * y % y)
+
